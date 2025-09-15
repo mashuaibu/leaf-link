@@ -1,8 +1,6 @@
 
 ### Leaf-Link: A battery-free energy harvesting forest sensing system with adaptive scheduling and LoRaWAN connectivity
 
-
-<!-- [![Paper](https://img.shields.io/badge/paper-PDF-blue)](LINK_TO_PAPER) -->
 <!-- [![DOI](https://zenodo.org/badge/DOI_PLACEHOLDER.svg)](https://doi.org/DOI_PLACEHOLDER) --> 
 
 ---
@@ -17,7 +15,7 @@ This repository contains:
 - [**Hardware**](hardware/): Schematics, BOM, wiring diagrams, etc.  
 - [**Implementation and analysis**](analysis/): Docs to reproduce figures and metrics from datasets  
 - [**Results**](results/): Deployment traces, logs and cleaned datasets
-- Failure notes, limitations and lessons learned   
+- Failure notes and limitations
 <!-- - 📄 **Paper Link** -->
 
 ---
