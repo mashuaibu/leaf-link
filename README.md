@@ -11,10 +11,10 @@
 Leaf-Link is a wireless sensing system designed for **environmental monitoring**. It operates **battery-free** using super-capacitors energy storage and solar energy harvesting, with adaptive power management hardware  and intelligent scheduling based on **AsTAR++ scheduler**, and communicates over **LoRaWAN**.  
 
 This repository contains:
-- **Software design** documents  
-- **Hardware designs** (schematics, wiring diagrams, etc.) 
-- **Implementation and analysis docs** to reproduce the paper figures and tables
-- **Deployment traces and experimental results**
+- **[Software design](software/)** documents  
+- **[Hardware designs](hardware/)** (schematics, wiring diagrams, etc.) 
+- **[Implementation and analysis](analysis/) docs** to reproduce the paper figures and tables
+- **[Deployment traces and experimental results](results/)**
 <!-- - 📄 **Paper Link** -->
 
 ---
